@@ -1,3 +1,5 @@
+### copied and added relative links from https://github.com/sophwats/sophwats.github.io
+
 # A gentle introduction to Alternating Least Squares
 
 A successful recommendation engine is one which provides accurate and personalised predictions to users in a timely manner. Such systems are of increasing commercial importance. Collaborative Filtering algorithms allow us to give predictions by capturing the commonality between users.s
